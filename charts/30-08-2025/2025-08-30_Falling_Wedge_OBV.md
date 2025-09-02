@@ -39,3 +39,6 @@
 - Bulkowski, T. N. (2018). *Chart Patterns: After the Buy*. Iremedia.  
 - Frost, A. J., & Prechter, R. R. (2011). *Elliott Wave Principle: Key to Market Behavior*. Iremedia.  
 - Dormeier, Buff. *Investing with Volume Analysis: Identify, Follow, and Profit from Trends*. FT Press, 2013.  
+
+### Result
+![Result Chart](4H_Result_Falling_Wedge.png)
