@@ -30,3 +30,6 @@
 
 ## Attached Chart
 ![Daily Chart](Daily_Chart_Analysis_1D.png)
+
+## Result
+![Result Chart](Daily_Result_Chart_1D.png)
