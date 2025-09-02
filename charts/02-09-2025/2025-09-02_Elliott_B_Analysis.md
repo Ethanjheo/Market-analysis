@@ -54,4 +54,4 @@
 ---
 
 ### Result
-![Result Chart](elliott_b_result.png)
+
