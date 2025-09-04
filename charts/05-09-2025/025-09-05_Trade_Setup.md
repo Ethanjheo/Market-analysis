@@ -40,4 +40,8 @@ This setup presents a **low-risk, high-probability trade opportunity**:
 
 ### 5. References
 - Frost, A. J., & Prechter, R. R. (2011). *Elliott Wave Principle: Key to Market Behavior*. Iremedia.  
-- Bulkowski, T. N. (2018). *Chart Patterns: After the Buy*. Iremedia.  4
+- Bulkowski, T. N. (2018). *Chart Patterns: After the Buy*. Iremedia.
+
+---
+
+### 5. Result
