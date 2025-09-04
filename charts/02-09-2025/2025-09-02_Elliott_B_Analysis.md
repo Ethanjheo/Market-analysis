@@ -53,9 +53,7 @@
 
 ---
 
-### Result
-
-### Result
+### 5. Result
 
 ![Result Chart 1](2025-09-02_Elliott_B_Result1.png)  
 ![Result Chart 2](2025-09-02_Elliott_B_Result2.png)  
