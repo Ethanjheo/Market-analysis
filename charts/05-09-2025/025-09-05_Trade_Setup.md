@@ -35,6 +35,13 @@
 This setup presents a **low-risk, high-probability trade opportunity**:  
 - Confluence of Fibonacci retracement, Elliott Wave corrective structure, and inverse head-and-shoulders pattern.  
 - Risk tightly defined (~0.48%), with asymmetric upside potential if neckline breakout occurs.  
+- **Primary Bias**: Bullish reversal expected if neckline is broken with volume confirmation.  
+- **Uncertainty Factors**:  
+  - Breakdown below **0.382 retracement** may shift pattern into a potential **Double Bottom** formation.  
+  - In such case, the **original view is invalidated**, requiring flexibility in strategy.  
+- **Variable Leverage**:  
+  - If upward momentum strengthens within the trendline, **leverage scaling from 5x to 10x** may be applied for amplification.  
+
 
 ---
 
@@ -44,4 +51,4 @@ This setup presents a **low-risk, high-probability trade opportunity**:
 
 ---
 
-### 5. Result
+### 6. Result
