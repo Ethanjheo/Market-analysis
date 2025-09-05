@@ -39,8 +39,6 @@ This setup presents a **low-risk, high-probability trade opportunity**:
 - **Uncertainty Factors**:  
   - Breakdown below **0.382 retracement** may shift pattern into a potential **Double Bottom** formation.  
   - In such case, the **original view is invalidated**, requiring flexibility in strategy.  
-- **Variable Leverage**:  
-  - If upward momentum strengthens within the trendline, **leverage scaling from 5x to 10x** may be applied for amplification.  
 
 
 ---
