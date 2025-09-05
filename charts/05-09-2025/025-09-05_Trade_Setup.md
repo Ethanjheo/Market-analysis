@@ -52,3 +52,6 @@ This setup presents a **low-risk, high-probability trade opportunity**:
 ---
 
 ### 6. Result
+![Trade Setup](05-09-2025_Result.png)
+
+### 6. Result
