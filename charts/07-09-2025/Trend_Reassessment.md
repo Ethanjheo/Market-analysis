@@ -44,5 +44,3 @@
 - Profit: **+0.17%**  
 - Position closed immediately upon trendline violation (**strict risk control**)  
 - Focus remained on adherence to predefined trading rules, **excluding emotional bias**  
-
-- 
