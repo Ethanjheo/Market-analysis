@@ -37,6 +37,7 @@
 ### 4. Risk Management
 - Stop-loss should be defined **below Wave W termination**, the invalidation point for the Double Three.  
 - Current R/Risk(between **0.18–0.25%**) setup ranges 
+- Furthermore, the current structure may not end as a simple Double Three (W–X–Y), but could also extend into a Triple Three (W–X–Y–X–Z) pattern.
 
 ---
 
