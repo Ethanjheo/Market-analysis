@@ -36,3 +36,13 @@
 - Current phase should be interpreted as a **“short-term correction within a long-term bullish structure.”**
 
 ---
+
+### 5. Result
+![Trendline Break](2025-09-07_Trendline_Break1.png)
+
+- Quick profit-taking executed on trendline break  
+- Profit: **+0.17%**  
+- Position closed immediately upon trendline violation (**strict risk control**)  
+- Focus remained on adherence to predefined trading rules, **excluding emotional bias**  
+
+- 
