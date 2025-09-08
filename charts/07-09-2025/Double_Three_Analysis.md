@@ -18,7 +18,7 @@
 
 ### 2. Current Market Observation
 - BTC/USDT 4H chart shows **B-wave unfolding as a Flat correction**, with its internal leg forming a **W–X–Y sequence**.  
-- **Wave W**: Completed with a Zigzag-type move.  
+- **Wave W**: Completed with a Zigzag-type or Flat move.  
 - **Wave X**: Expanded rebound, reaching ~127% of Wave W (stronger than typical retracement).  
 - **Wave Y**: Currently developing, with the potential to project to the same length as Wave W or beyond.  
 
