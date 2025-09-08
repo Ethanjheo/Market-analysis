@@ -48,6 +48,22 @@
 
 ---
 
+### 6. Result
+![Double Three Structure](Result.jpg)
+![Double Three Structure](Profit_target.jpg)
+
+1. **Partial Profit Taken**  
+   - Closed 50% position at **+1.21%** gain.  
+
+2. **Target Projection**  
+   - Next target: **0.618 Fibonacci retracement level**, identified as the top of wave **B (abc)**.  
+   - Expected profit: **+5.92%**.  
+
+3. **Risk Management**  
+   - Remaining 50% position held until trendline break.  
+   - Stop condition: close below trendline.  
+   - **Current maximum downside risk: -0.3%**.  
+
 ### References
 - Frost, A. J., & Prechter, R. R. (2011). *Elliott Wave Principle: Key to Market Behavior*. Iremedia.  
 - Bulkowski, T. N. (2018). *Chart Patterns: After the Buy*. Iremedia.  
