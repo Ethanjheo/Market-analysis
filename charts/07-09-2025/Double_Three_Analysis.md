@@ -49,8 +49,8 @@
 ---
 
 ### 6. Result
-![Double Three Structure](Result.jpg)
-![Double Three Structure](Profit_target.jpg)
+![Double Three Structure](Result.png)
+![Double Three Structure](Profit_target.png)
 
 1. **Partial Profit Taken**  
    - Closed 50% position at **+1.21%** gain.  
