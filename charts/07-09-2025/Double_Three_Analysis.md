@@ -53,7 +53,7 @@
 ![Double Three Structure](Profit_target.png)
 
 1. **Partial Profit Taken**  
-   - Closed 50% position at **+1.21%** gain.  
+   - Closed 50% position at **+1.21%** gain (Rate: 1:5 )
 
 2. **Target Projection**  
    - Next target: **0.618 Fibonacci retracement level**, identified as the top of wave **B (abc)**.  
