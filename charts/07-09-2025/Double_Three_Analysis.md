@@ -1,5 +1,13 @@
 # 2025-09-07_Double_Three_Analysis.md  
 
+## Objectives  
+
+1. Enhance risk management and strategic decision-making skills under uncertainty  
+2. Strengthen deductive, data-driven reasoning by eliminating intuition and emotional bias  
+3. Establish a probabilistic thinking framework with consistency and predictive reliability  
+4. Study behavioral patterns and decision-making processes of individuals and institutions through market analysis  
+5. Advance economic insight and structural understanding  
+
 ## Chart Analysis: Double Three (W–X–Y) Corrective Pattern within ABC  
 
 ---
