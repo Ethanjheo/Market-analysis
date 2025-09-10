@@ -73,7 +73,7 @@
    - **Current maximum downside risk: -0.3%**.  
 
 ### 7. Reassessment (10-09-2025)
-![BTC Double Three Setup](2025-09-07_Double_Three.png)  
+![BTC Double Three Setup](Reassessment_Triangle.png)  
 
 - The **lows are rising** while forming a triangular consolidation.  
 - Structure shows a clear **ABCD triangle** with converging support (ascending) and resistance (descending) lines.  
