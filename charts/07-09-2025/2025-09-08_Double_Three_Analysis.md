@@ -74,6 +74,7 @@
 
 ### 7. Reassessment (10-09-2025)
 ![BTC Double Three Setup](Reassessment_Triangle.png)  
+![BTC Double Three Setup](Entry.png)  
 
 - The **lows are rising** while forming a triangular consolidation.  
 - Structure shows a clear **ABCD triangle** with converging support (ascending) and resistance (descending) lines.  
