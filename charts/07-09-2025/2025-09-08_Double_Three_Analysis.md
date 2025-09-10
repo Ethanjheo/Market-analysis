@@ -72,6 +72,24 @@
    - Stop condition: close below trendline.  
    - **Current maximum downside risk: -0.3%**.  
 
+### 7. Reassessment (10-09-2025)
+![BTC Double Three Setup](2025-09-07_Double_Three.png)  
+
+- The **lows are rising** while forming a triangular consolidation.  
+- Structure shows a clear **ABCD triangle** with converging support (ascending) and resistance (descending) lines.  
+- This consolidation often precedes a breakout aligned with the **previous major trend**.  
+- The triangle indicates **accumulation before continuation**.  
+- Primary target: **0.5 Fibonacci retracement** level.  
+- Extended target: **0.618 Fibonacci retracement** level.  
+
+## Risk
+- Risk management should be based on **trendline invalidation** below point D.  
+- Bias remains bullish unless breakdown invalidates the ascending structure.  
+
+
+
+
+
 ### References
 - Frost, A. J., & Prechter, R. R. (2011). *Elliott Wave Principle: Key to Market Behavior*. Iremedia.  
 - Bulkowski, T. N. (2018). *Chart Patterns: After the Buy*. Iremedia.  
