@@ -87,7 +87,7 @@
 - Risk management should be based on **trendline invalidation** below point D.  
 - Bias remains bullish unless breakdown invalidates the ascending structure.  
 
-### 7. Result (12-09-2025)
+### 8. Result (12-09-2025)
 ![BTC Double Three Setup](End.png)
 ![BTC Double Three Setup](Proof.png)  
 - **Total Profit**: +3.9%  
