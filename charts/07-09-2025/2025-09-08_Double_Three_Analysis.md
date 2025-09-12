@@ -87,8 +87,10 @@
 - Risk management should be based on **trendline invalidation** below point D.  
 - Bias remains bullish unless breakdown invalidates the ascending structure.  
 
-
-
+### 7. Result (12-09-2025)
+![BTC Double Three Setup](End.png)  
+- **Total Profit**: +3.9%  
+- Closed all positions as the price approached the **0.5–0.618 Fibonacci retracement zone**, which often signals potential reversal or strong market reaction.  
 
 
 ### References
