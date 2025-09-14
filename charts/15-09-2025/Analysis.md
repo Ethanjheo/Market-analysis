@@ -1,6 +1,3 @@
-# File Name
-2025-09-15_BTC_ElliottWave_Analysis.md
-
 ## Objectives  
 
 1. Enhance risk management and strategic decision-making skills under uncertainty  
