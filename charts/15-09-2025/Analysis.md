@@ -40,7 +40,7 @@
 ---
 
 ### Conclusion
-- **Primary Bias**: Triangle in Wave 4 → Downward Wave 5 scenario.  
+- **Primary Bias**: Triangle in Wave 4 (increasing price) → Downward Wave 5 scenario.  
 - **Key Levels**: Watch 0.5–0.618 Fibonacci retracement zone.  
 - **Risk Factor**: FOMC announcement may disrupt technical patterns.
 
