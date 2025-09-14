@@ -30,7 +30,7 @@
 ## 4. MACD Divergence on 4H
 ![MACD Divergence](2025-09-15_chart4.png)
 
-- The **fourth chart** (`2025-09-15_chart4.png`) highlights a potential **MACD bearish divergence** on the 4-hour timeframe.  
+- The **fourth chart** highlights a potential **MACD bearish divergence** on the 4-hour timeframe.  
 - If confirmed, this divergence increases the probability of a **trend reversal to the downside**.  
 - Divergences, when aligned with Fibonacci rejection zones, often enhance the reliability of bearish setups.
 
