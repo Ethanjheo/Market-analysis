@@ -42,5 +42,5 @@
 - **Risk Factor**: FOMC announcement may disrupt technical patterns.
 
 ### Reference
-Frost, A. J., & Prechter, R. R. (2011). Elliott Wave Principle: Key to Market Behavior. Iremedia.
-Bulkowski, T. N. (2018). Chart Patterns: After the Buy. Iremedia.
+- Frost, A. J., & Prechter, R. R. (2011). Elliott Wave Principle: Key to Market Behavior. Iremedia.
+- Bulkowski, T. N. (2018). Chart Patterns: After the Buy. Iremedia.
