@@ -8,6 +8,8 @@
 4. Study behavioral patterns and decision-making processes of individuals and institutions through market analysis  
 5. Advance economic insight and structural understanding  
 
+For me, success isn’t about doing well on my own—it’s about walking a path where we all thrive together
+
 ## Chart Analysis: Elliott Wave Retracement, Fibonacci 0.382 & Inverse Head and Shoulders
 
 ![Trade Setup](Trade_Setup.png)
