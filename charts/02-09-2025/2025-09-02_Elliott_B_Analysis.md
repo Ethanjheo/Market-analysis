@@ -8,6 +8,8 @@
 4. Study behavioral patterns and decision-making processes of individuals and institutions through market analysis  
 5. Advance economic insight and structural understanding  
 
+For me, success isn’t about doing well on my own—it’s about walking a path where we all thrive together
+
 ## Chart Analysis: Elliott Wave B with Falling Wedge, MACD Divergence & OI Context
 
 ![Elliott Wave B Setup](elliott_wave_b_setup.png)
