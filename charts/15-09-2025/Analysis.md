@@ -49,9 +49,7 @@
 - Bulkowski, T. N. (2018). Chart Patterns: After the Buy. Iremedia.
 
 
-### Reassessment (17-09-2025)
-
-# Bitcoin Elliott Wave Analysis (4H Chart)
+# Reassessment (17-09-2025)
 
 ## 1. Wave 4 Low Scenarios (Chart 1)
 
