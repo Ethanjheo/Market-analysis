@@ -54,7 +54,8 @@
 # Bitcoin Elliott Wave Analysis (4H Chart)
 
 ## 1. Wave 4 Low Scenarios (Chart 1)
-![MACD Divergence](2025-09-15_chart5.png)
+
+![MACD Divergence](2025-09-17_chart5.png)
 
 The potential bottom of Wave 4 can be evaluated using three criteria:
 
@@ -70,7 +71,8 @@ The potential bottom of Wave 4 can be evaluated using three criteria:
 ---
 
 ## 2. Wave 2 vs. Wave 4 Relationship (Chart 2)
-![MACD Divergence](2025-09-15_chart6.png)
+
+![MACD Divergence](2025-09-17_chart6.png)
 
 - **Rule of Alternation:**  
   If Wave 2 is a zigzag, then Wave 4 tends to form as a flat, triangle, or complex structure.
@@ -85,7 +87,7 @@ The potential bottom of Wave 4 can be evaluated using three criteria:
 - With Wave 4 confirmed as a flat correction, the price is now in the **progression of Wave 5**.
 - Monitoring Fibonacci extensions and trendline support will be key to validating the completion of this fifth wave.
 
-![MACD Divergence](2025-09-15_chart7.png)
+![MACD Divergence](2025-09-17_chart7.png)
 
 ---
 
