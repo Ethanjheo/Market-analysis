@@ -24,7 +24,7 @@
 
 ## 4. Variables
 - **Downside:** Sustained rejection at supply zones + break of Wave 2 low → deeper decline.  
-- **Upside:** Breakout above previous peak → new bullish wave count required.
+- **Upside:** Breakout above previous peak(Blue No.3) → new bullish wave count required.
 
 ---
 
