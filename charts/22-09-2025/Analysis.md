@@ -2,7 +2,7 @@
 
 
 ![Chart 1: Daily Fibonacci and Wave 2 anchor](chart_1.png)
-![Chart 4: Daily Fibonacci and Wave 2 anchor](chart_4.png)
+![Chart 4: Daily Fibonacci and Wave 2 anchor](Chart_4.png)
 ## 1. Basis of Judgment
 - Wave 2 retracement reached **0.681** level, providing the anchor for subsequent wave counts.  
 - This level is critical because it defines the balance between correction depth and trend continuation.
