@@ -29,9 +29,8 @@
 ---
 
 ## References
-- **Elliott Wave Theory**  
-- **Thomas Bulkowski, Chart Patterns** (볼코우스키 차트패턴)
-
+- **Frost, A. J., & Prechter, R. R. (2011). Elliott Wave Principle: Key to Market Behavior. Iremedia.**
+- **Bulkowski, T. N. (2018). Chart Patterns: After the Buy. Iremedia.**
 ---
 
 ## Result
