@@ -1,8 +1,8 @@
 # Bitcoin Wave Analysis (Elliott + Fibonacci)
 
 
-[Chart 1: Daily Fibonacci and Wave 2 anchor](/chart_1.png)  
-(/chart_4.png)
+![Chart 1: Daily Fibonacci and Wave 2 anchor](chart_1.png)
+![Chart 4: Daily Fibonacci and Wave 2 anchor](chart_4.png)
 ## 1. Basis of Judgment
 - Wave 2 retracement reached **0.681** level, providing the anchor for subsequent wave counts.  
 - This level is critical because it defines the balance between correction depth and trend continuation.
@@ -12,8 +12,12 @@
 - This zone aligns with prior peaks and coincides with overlapping Fibonacci extensions.  
 - Failure to break through this resistance would validate further downside continuation.
 
+
+![Chart 2: Daily Fibonacci and Wave 2 anchor](chart_2.png)
 ## 3. Confirmation Criteria
-- **Bearish continuation scenario:** If price breaks **below the Wave 2 low**, sustained decline becomes the primary expectation.  
+- **Bearish continuation scenario:** If price breaks **below the Wave 2 low**, sustained decline becomes the primary expectation.
+
+![Chart 3: Daily Fibonacci and Wave 2 anchor](chart_3.png)
 - Target zone based on Fibonacci extension:  
   - **1.618 → 2.618** of Wave 2 (≈ 92,500 → 87,400 USDT).  
 - **Bullish invalidation scenario:** If price reclaims and **decisively breaks above the prior high**, the bearish outlook is invalidated.
@@ -33,7 +37,4 @@
 ## Result
 
 
-## Visual Reference
-- [Chart 1: Daily Fibonacci and Wave 2 anchor](/chart_1.png)  
-- [Chart 2: 4H retracement and resistance clusters](/chart_2.png)  
-- [Chart 3: Trendline rejection and breakout risk](/chart_3.png)
+
