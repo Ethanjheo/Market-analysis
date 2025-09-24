@@ -8,7 +8,7 @@
 - This level is critical because it defines the balance between correction depth and trend continuation.
 
 ## 2. Resistance Zones
-- Multiple **supply clusters (매물대 저항선)** are visible near 117,800–118,000.  
+- Multiple **supply clusters ** are visible near 117,800–118,000.  
 - This zone aligns with prior peaks and coincides with overlapping Fibonacci extensions.  
 - Failure to break through this resistance would validate further downside continuation.
 
