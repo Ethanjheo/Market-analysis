@@ -34,6 +34,6 @@
 ---
 
 ## Result
-
+![Chart 2: Daily Fibonacci and Wave 2 anchor](Chart_4.png)
 
 
