@@ -34,6 +34,7 @@
 ---
 
 ## Result
-![Chart 4: Daily Fibonacci and Wave 2 anchor](chart_5.png)
+### 27-09-2025
+![Chart 5: Daily Fibonacci and Wave 2 anchor](chart_5.png)
 
 
